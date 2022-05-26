@@ -1,15 +1,29 @@
 ### Hi there and Welcome to my GitHub 👋
 
-# I'm **Emilie**, a Front-end developer
+# ✨ I'm **Emilie**, a Front-end Developer ✨
 
 <img align="right" width="33%" src="./assets/images/emoji.png">
-I chose to become a developer because it's an exciting job with multiple possibilities of evolution!
-I have always been curious and an eternal learner, and we can say that with this job, my thirst for knowledge and permanent improvements are fulfilled!
-In addition to being full of personal and professional challenges, it is also a field in which you meet a lot of interesting people with whom the exchanges are very enriching from a technical but also human point of view.
-And on top of that, what a pleasure it is to break our heads to solve problems in our code that will in turn solve problems in the lives of the users of our sites and applications!
+
+I worked for over 10 years as a salesperson and team manager. I really appreciated it but it wasn't a vocation, just a nice job.  
+Two years ago, I started a professional reconversion.
+
+### Why the developer job ?
+
+**In fact, it was the job that found me!**  
+
+During my training as a project manager / design specialist, I had to complete an introductory course in HTML/CSS and 😵 ... I fell in love with coding and decided to change my training path to become a front-end developer. 😍
+
+### Did I regret it ?
+
+Not for a single day!  
+
+This job is passionate and offers many possibilities!  
+I've always been curious and a constant learner, and you could say that with this job, my thirst for knowledge and continuous improvement is fulfilled!  
+
+**A lot of challenges, interacting with very interesting people and what a pleasure it is to rack my brains to solve problems !**
 
 <!--
-**emilie-v11/emilie-v11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
