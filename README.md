@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### My Name is Emilie
+
+![my emoji](https://github.com/emilie-v11/emilie-v11/assets/images/emoji.png)
+
 <!--
 **emilie-v11/emilie-v11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
