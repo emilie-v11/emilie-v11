@@ -1,9 +1,14 @@
-
 ### Hi there and Welcome to my GitHub 👋
 
-# I'm **Emilie**, a front-end developer
+# I'm **Emilie**, a Front-end developer
 
-<img align="right" width="33%" src="./assets/images/emoji.png">
+<div>
+    <p align="left">I chose to become a developer because it's an exciting job with multiple possibilities of evolution!
+I have always been curious and an eternal learner, and we can say that with this job, my thirst for knowledge and permanent improvements are fulfilled!
+In addition to being full of personal and professional challenges, it is also a field in which you meet a lot of interesting people with whom the exchanges are very enriching from a technical but also human point of view.
+And on top of that, what a pleasure it is to break our heads to solve problems in our code that will in turn solve problems in the lives of the users of our sites and applications! </p>
+    <img align="right" width="33%" src="./assets/images/emoji.png">
+</div>
 
 <!--
 **emilie-v11/emilie-v11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
