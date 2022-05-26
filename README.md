@@ -1,10 +1,9 @@
-[drag=70]
 
 ### Hi there and Welcome to my GitHub 👋
 
 # I'm **Emilie**, a front-end developer
 
-<kbd>![my emoji](./assets/images/emoji.png)</kbd>
+<img align="right" width="33%" src="./assets/images/emoji.png">
 
 <!--
 **emilie-v11/emilie-v11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
