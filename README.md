@@ -1,6 +1,6 @@
 ### Hi there and Welcome to my GitHub 👋
 
-# ✨ I'm **Emilie**, a Front-end Developer ✨
+# ✨ I'm Emilie, a Front-end | React Developer ✨
 
 <img align="right" width="33%" src="./assets/images/emoji.png">
 
@@ -15,7 +15,7 @@ During my training as a project manager / design specialist, I had to complete a
 
 ### Did I regret it ?
 
-Not for a single day!  
+**Not for a single day!**  
 
 This job is passionate and offers many possibilities!  
 I've always been curious and a constant learner, and you could say that with this job, my thirst for knowledge and continuous improvement is fulfilled!  
