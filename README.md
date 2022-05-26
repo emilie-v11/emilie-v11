@@ -1,6 +1,8 @@
-### Hi there 👋
+[drag=70]
 
-### My Name is Emilie
+### Hi there and Welcome to my GitHub 👋
+
+# I'm **Emilie**, a front-end developer
 
 <kbd>![my emoji](./assets/images/emoji.png)</kbd>
 
