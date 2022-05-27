@@ -7,7 +7,7 @@
 I worked for over 10 years as a salesperson and team manager. I really appreciated it but it wasn't a vocation, just a nice job.  
 Two years ago, I started a professional reconversion.
 
-### Why the developer job ?
+### Why developer ?
 
 **In fact, it was the job that found me!**
 
@@ -24,16 +24,27 @@ I've always been curious and a constant learner, and you could say that with thi
 
 <div align="center">
     <h2>Languages & Tools</h2>
+    <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    </div>
+    <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="40" height="40"/>&nbsp;
+    </div>
+</div>
+<!-- Add recharts + accessibility + API Restful + Adobe XD + Styled Component + Netlify // in multiple lines ?
+ -->
+
+<div align="center">
+    <h2>Next Skill development - Interested by</h2>
+    Typescript - Next.js - React Native - Node.js - MERN 
 </div>
 
 <!--
