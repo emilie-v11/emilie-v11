@@ -41,10 +41,9 @@ I've always been curious and a constant learner, and you could say that with thi
 <!-- Add recharts + accessibility + API Restful + Adobe XD + Styled Component + Netlify // in multiple lines ?
  -->
 
-<div align="center">
-    <h2>Next Skill development - Interested by</h2>
-    Typescript - Next.js - React Native - Node.js - MERN 
-</div>
+## Next Skill development - Interested by  
+
+Typescript - Next.js - React Native - Node.js - MERN  
 
 <!--
 ** a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
