@@ -24,7 +24,9 @@ I've always been curious and a constant learner, and you could say that with thi
 
 ## Languages & Tools
 
-<div>
+<img src="./assets/images/current-stack.png" title="Current stack" alt="Current stack"/>
+
+<!-- <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" style= "margin-right: 20px"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40" style= "margin-right: 20px"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style= "margin-right: 20px"/>&nbsp;
@@ -44,17 +46,19 @@ I've always been curious and a constant learner, and you could say that with thi
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
     <img src="./assets/images/adobe-xd.png" title="Adobe XD" alt="Adobe XD" width="auto" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="40" height="40"/>&nbsp;
-</div>
+</div> -->
 
 ## Next Skill development - Interested by
 
-<div>
+<img src="./assets/images/next-stack.png" title="Next stack" alt="Next stack"/>
+
+<!-- <div>
     <img src="./assets/images/TypeScript.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="./assets/images/react-native1.png" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
     <img src="./assets/images/NextJS1.png" title="Next JS" alt="Next JS" width="40" height="40"/>&nbsp;
     <img src="./assets/images/NodeJS.png" title="Node JS" alt="Node JS" width="auto" height="40"/>&nbsp;
-    <img src="./assets/images/MERN1.png" title="MERN" alt="MERN" width="auto" height="40"/>  
-</div>
+    <img src="./assets/images/MERN1.png" title="MERN" alt="MERN" width="auto" height="40"/>
+</div> -->
 
 <!-- Typescript - Next.js - React Native - Node.js - MERN -->
 
