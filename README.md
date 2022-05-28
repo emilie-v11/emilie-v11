@@ -51,8 +51,8 @@ I've always been curious and a constant learner, and you could say that with thi
 <div>
     <img src="./assets/images/TypeScript.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="./assets/images/react-native1.png" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
-    <img src="./assets/images/nextJS1.png" title="Next JS" alt="Next JS" width="40" height="40"/>&nbsp;
-    <img src="./assets/images/NodeJS.png" title="Node JS" alt="Node JS" width="40" height="40"/>&nbsp;
+    <img src="./assets/images/NextJS1.png" title="Next JS" alt="Next JS" width="40" height="40"/>&nbsp;
+    <img src="./assets/images/NodeJS.png" title="Node JS" alt="Node JS" width="auto" height="40"/>&nbsp;
     <img src="./assets/images/MERN1.png" title="MERN" alt="MERN" width="auto" height="40"/>  
 </div>
 
