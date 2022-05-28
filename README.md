@@ -25,14 +25,14 @@ I've always been curious and a constant learner, and you could say that with thi
 ## Languages & Tools
 
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-    <img src="./assets/images/API-rest.png" title="API Restfull" alt="API Restfull" width="auto" height="40"/>&nbsp;
-    <img src="./assets/images/recharts.png" title="Recharts" alt="Recharts" width="auto" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="./assets/images/Netlify.png" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" style= "margin-right: 20px"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40" style= "margin-right: 20px"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style= "margin-right: 20px"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40" style= "margin-right: 20px"/>&nbsp;
+    <img src="./assets/images/API-rest.png" title="API Restfull" alt="API Restfull" width="auto" height="40" style= "margin-right: 20px"/>&nbsp;
+    <img src="./assets/images/recharts.png" title="Recharts" alt="Recharts" width="auto" height="40" style= "margin-right: 20px"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" style= "margin-right: 20px"/>&nbsp;
+    <img src="./assets/images/Netlify.png" title="Netlify" alt="Netlify" width="40" height="40" style= "margin-right: 20px"/>&nbsp;
 </div>
 
 <div>
