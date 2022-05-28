@@ -22,8 +22,7 @@ I've always been curious and a constant learner, and you could say that with thi
 
 **A lot of challenges, interacting with very interesting people and what a pleasure it is to rack my brains to solve problems !**
 
-
-## Languages & Tools  
+## Languages & Tools
 
 <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -33,6 +32,7 @@ I've always been curious and a constant learner, and you could say that with thi
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+    <img src="./assets/images/styled-components.png" title="Styled Component" alt="Styled Component" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="40" height="40"/>&nbsp;
@@ -41,9 +41,9 @@ I've always been curious and a constant learner, and you could say that with thi
 <!-- Add recharts + accessibility + API Restful + Adobe XD + Styled Component + Netlify // in multiple lines ?
  -->
 
-## Next Skill development - Interested by  
+## Next Skill development - Interested by
 
-Typescript - Next.js - React Native - Node.js - MERN  
+Typescript - Next.js - React Native - Node.js - MERN
 
 <!--
 ** a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
