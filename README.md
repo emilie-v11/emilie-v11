@@ -29,21 +29,31 @@ I've always been curious and a constant learner, and you could say that with thi
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
+    <img src="./assets/images/api-restfull.png" title="API Restfull" alt="API Restfull" width="40" height="40"/>&nbsp;
+    <img src="./assets/images/api-recharts.png" title="Recharts" alt="Recharts" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    <img src="./assets/images/Netlify.png" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
+    <img src="./assets/images/accessibility.png" title="Accessibility" alt="Accessibility" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
     <img src="./assets/images/styled-components.png" title="Styled Component" alt="Styled Component" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+    <img src="./assets/images/adobe-xd.png" title="Adobe XD" alt="Adobe XD" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" **alt="Trello" width="40" height="40"/>&nbsp;
 </div>
 
-<!-- Add recharts + accessibility + API Restful + Adobe XD + Styled Component + Netlify // in multiple lines ?
- -->
+## Next Skill development - Interested by  
 
-## Next Skill development - Interested by
+<div align="left">
+    <img src="./assets/images/TypeScript.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+    <img src="./assets/images/react-native.png" title="React Native" alt="React Native" width="40" height="40"/>&nbsp;
+    <img src="./assets/images/nextJS.png" title="Next JS" alt="Next JS" width="40" height="40"/>&nbsp;
+    <img src="./assets/images/NodeJS.png" title="Node JS" alt="Node JS" width="40" height="40"/>&nbsp;
+    <img src="./assets/images/MERN.png" title="MERN" alt="MERN" width="40" height="40"/>  
+</div>
 
-Typescript - Next.js - React Native - Node.js - MERN
+<!-- Typescript - Next.js - React Native - Node.js - MERN -->
 
 <!--
 ** a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
