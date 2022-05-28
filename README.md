@@ -24,7 +24,7 @@ I've always been curious and a constant learner, and you could say that with thi
 
 ## Languages & Tools
 
-<div align="left">
+<div align="left" width="100%">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -35,7 +35,7 @@ I've always been curious and a constant learner, and you could say that with thi
     <img src="./assets/images/Netlify.png" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
 </div>
 
-<div align="left">
+<div align="left" width="100%">
     <img src="./assets/images/accessibility.png" title="Accessibility" alt="Accessibility" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
