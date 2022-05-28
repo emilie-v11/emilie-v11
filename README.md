@@ -29,8 +29,8 @@ I've always been curious and a constant learner, and you could say that with thi
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-    <img src="./assets/images/api-restfull.png" title="API Restfull" alt="API Restfull" width="40" height="40"/>&nbsp;
-    <img src="./assets/images/api-recharts.png" title="Recharts" alt="Recharts" width="40" height="40"/>&nbsp;
+    <img src="./assets/images/API-rest.png" title="API Restfull" alt="API Restfull" width="40" height="40"/>&nbsp;
+    <img src="./assets/images/recharts.png" title="Recharts" alt="Recharts" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="./assets/images/Netlify.png" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
 </div>
