@@ -5,7 +5,7 @@
 <img align="right" width="33%" src="./assets/images/emoji.png">
 
 I worked for over 10 years as a salesperson and team manager. I really appreciated it but it wasn't a vocation, just a nice job.  
-Two years ago, I started a professional reconversion.
+Four years ago, I started a professional reconversion.
 
 ### Why developer ?
 
