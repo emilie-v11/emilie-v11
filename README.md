@@ -22,13 +22,6 @@ I've always been curious and a constant learner, and you could say that with thi
 
 **A lot of challenges, interacting with very interesting people and what a pleasure it is to rack my brains to solve problems !**
 
-## Languages & Tools  
-
-<img src="./assets/images/current-stack.png" title="Current stack" alt="Current stack"/>
-
-## Next Skill development - Currently learning
-
-<img src="./assets/images/next-stack.png" title="Next stack" alt="Next stack"/>
 
 <!--
 ** a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
