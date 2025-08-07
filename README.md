@@ -5,7 +5,7 @@
 <img align="right" width="33%" src="./assets/images/emoji.png">
 
 I worked for over 10 years as a salesperson and team manager. I really appreciated it but it wasn't a vocation, just a nice job.  
-Four years ago, I started a professional reconversion.
+six years ago, I started a professional reconversion.
 
 ### Why developer ?
 
@@ -26,7 +26,7 @@ I've always been curious and a constant learner, and you could say that with thi
 
 <img src="./assets/images/current-stack.png" title="Current stack" alt="Current stack"/>
 
-## Next Skill development - Interested by  
+## Next Skill development - Currently learning
 
 <img src="./assets/images/next-stack.png" title="Next stack" alt="Next stack"/>
 
